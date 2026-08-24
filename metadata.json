@@ -1,0 +1,7 @@
+{
+  "name": "NOVA",
+  "description": "Your Personal Intelligence - A futuristic sci-fi personal AI assistant with voice, automation, device diagnostics, offline-first intelligence and productivity suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
